@@ -14,6 +14,6 @@ variable "aws_profile" {
 variable "project_prefix" {
   description = "Prefix for resources names"
   type        = string
-  default     = "connect_nelly_demo"
+  default     = "connect-nelly-demo"
 }
 
