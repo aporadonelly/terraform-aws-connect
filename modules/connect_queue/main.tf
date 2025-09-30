@@ -112,3 +112,4 @@ resource "aws_connect_security_profile" "agent" {
   name        = "${var.project_prefix}-agent-profile"
   description = "Security profile for agents"
 }
+
